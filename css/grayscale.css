@@ -223,7 +223,6 @@ a:focus {
     -moz-animation-timing-function: linear;
 }
 .img-circle {
-    content: url(../img/raihan.jpg);
     border-radius: 50%;
 }
 @-webkit-keyframes pulse {    
