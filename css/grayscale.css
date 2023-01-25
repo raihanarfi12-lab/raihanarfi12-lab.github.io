@@ -264,6 +264,12 @@ a:focus {
 .content-section {
     padding-top: 100px;
 }
+.project-section-next {
+    padding-top: 30px;
+}
+.project-section {
+    padding-top: 50px;
+}
 
 .download-section {
     width: 100%;
