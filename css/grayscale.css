@@ -223,7 +223,7 @@ a:focus {
     -moz-animation-timing-function: linear;
 }
 .img-circle {
-    border-radius: 50%;
+    border-radius: 18px;
 }
 @-webkit-keyframes pulse {    
     0 {
