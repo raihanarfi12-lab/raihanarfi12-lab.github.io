@@ -224,8 +224,8 @@ a:focus {
 }
 .img-circle {
     border-radius: 50%;
-    width: 18px;
-    height: 18px;
+    width: 200px;
+    height: 200px;
 }
 @-webkit-keyframes pulse {    
     0 {
